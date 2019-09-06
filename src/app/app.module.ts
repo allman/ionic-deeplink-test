@@ -7,11 +7,13 @@ import { Deeplinks } from "@ionic-native/deeplinks";
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
+import { SecondpagePage } from '../pages/secondpage/secondpage';
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage
+    HomePage,
+    SecondpagePage
   ],
   imports: [
     BrowserModule,
@@ -20,7 +22,8 @@ import { HomePage } from '../pages/home/home';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HomePage
+    HomePage,
+    SecondpagePage
   ],
   providers: [
     StatusBar,
