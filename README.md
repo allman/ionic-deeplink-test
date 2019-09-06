@@ -1,1 +1,9 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
+# Ionic v3 Deeplink
+
+```sh 
+1. Clone this repo
+2. 'npm install'
+3. Run this app to your emulator or device
+4. Open https://codepen.io/almanmarvi/pen/rNBpKMz on your device or emulator
+5. Click 'click here' to run deeplinking using ionic
+```
